@@ -1,3 +1,5 @@
+
+
 1. Write a C/C++ program that reads text from a file and prints on the terminal each input line, preceded by the line number. The output will look like -
                     1 This is the first trial line in the file,
                     2 and this is the second line.
@@ -24,3 +26,8 @@ save the output text file (without comment). Also count and print the number of 
 
 7. Write a C/C++ program that reads text from a file, then delete the existing tabs (spaces)
 and new line and save the output text file. Also count and print the number of deletion. 
+
+
+
+
+
