@@ -1,0 +1,1 @@
+int main(){int s;cout<<s<<endl;return 0;}
