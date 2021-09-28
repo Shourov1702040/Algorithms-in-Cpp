@@ -1,3 +1,7 @@
+/*Write a C/C++ program that reads text from a file, then delete the existing comment and save the output text file (without comment). 
+  Also count and print the number of deletion. */
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
