@@ -1,3 +1,5 @@
+// Write a C/C++ program to identify whether a given input line is a comment or not.
+
 #include<bits/stdc++.h>
 using namespace std;
 
