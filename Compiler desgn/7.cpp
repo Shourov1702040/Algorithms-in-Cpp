@@ -1,3 +1,6 @@
+/* Write a C/C++ program that reads text from a file, then delete the existing tabs (spaces)
+and new line and save the output text file. Also count and print the number of deletion. */
+
 #include<bits/stdc++.h>
 using namespace std;
 
