@@ -1,3 +1,7 @@
+/* Write a C/C++ program that reads text from a file, then count and prints the number of 
+character exist in the inputted text file. */
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
